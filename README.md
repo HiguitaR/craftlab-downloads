@@ -4,19 +4,28 @@ Instaladores oficiales de **CraftLab**, la aplicación de costos y precios de pr
 
 ## Cómo instalar
 
-Ve a la pestaña **Releases** de este repositorio y descarga la versión más reciente:
+Descarga la versión más reciente desde la pestaña **Releases** de este repositorio:
 
 - **Windows:** archivo `.exe` (o `.msi`).
 - **macOS:** archivo `.dmg`.
 
-Al primer uso la app pedirá el **archivo de activación** que te entregó el administrador. Ese archivo no está en este repositorio.
+Al primer uso, CraftLab pedirá el **archivo de activación** que te entregó el administrador. Ese archivo no está en este repositorio.
 
-## Avisos de seguridad del sistema
+## Avisos del sistema al instalar
 
-Los instaladores aún no están firmados digitalmente, así que el sistema puede mostrar una advertencia:
+Los instaladores todavía no tienen firma digital, así que el sistema puede mostrar una advertencia. Es normal, y solo tienes que hacer el paso indicado la primera vez.
 
-- **Windows:** "Windows protegió su PC". Pulsa *Más información* → *Ejecutar de todas formas*.
-- **macOS:** "no se puede abrir porque no es de un desarrollador identificado". Haz clic derecho sobre la app → *Abrir* → *Abrir*.
+### Windows: "Windows protegió su PC"
+
+1. Haz clic en **Más información**.
+2. Haz clic en **Ejecutar de todas formas**.
+
+### macOS: "no se puede abrir porque no es de un desarrollador identificado"
+
+1. Intenta abrir la app una vez. Cuando aparezca el aviso, pulsa **Listo** o **Cancelar**.
+2. Abre **Ajustes del sistema** → **Privacidad y seguridad**.
+3. Baja hasta la sección de seguridad y pulsa **Abrir de todas formas** junto al nombre de CraftLab.
+4. Confirma con la contraseña de tu Mac.
 
 ## Contenido
 
