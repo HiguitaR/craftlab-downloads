@@ -4,7 +4,11 @@ Instaladores oficiales de **CraftLab**, la aplicación de costos y precios de pr
 
 ## Cómo instalar
 
-Descarga la versión más reciente desde la pestaña **Releases** de este repositorio:
+Descarga la versión más reciente desde este enlace:
+
+**[Descargar CraftLab (última versión)](https://github.com/HiguitaR/craftlab-downloads/releases/latest)**
+
+Dentro de la página encontrarás:
 
 - **Windows:** archivo `.exe` (o `.msi`).
 - **macOS:** archivo `.dmg`.
